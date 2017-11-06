@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id">namee</item>
+    <item name="email" type="id">maill</item>
+    <item name="response" type="id">ress</item>
+    <item name="progressBar" type="id">progg</item>
+    <item name="send_request" type="id">senddd</item>
+</resources>
